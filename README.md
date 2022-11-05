@@ -1,12 +1,12 @@
 ### Welcome to my page ! 👋
-I am Samir Kamar, a master's student in Software Engineering 🎓 from IMT Atlantique in 🇫🇷, currently based in Nantes and Luxembourg I love to explore new technologies and solve real-life problems ✨.
+I am Samir Kamar, a master's student in Software Engineering 🎓 from IMT Atlantique in 🇫🇷, currently based in Nantes I love to explore new technologies and solve real-life problems ✨.
 
 <br/> 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  
 **Right Now I am :**
 
-- 👨🏽‍💻  working at Cargolux Airlines International
+- 👨🏽‍💻  working at Thales
 - 🌱  studying at IMT Atlantique
 - 📫 reachable by : [Mail](mailto:k-samir@live) or [Linkedin](https://www.linkedin.com/in/samir-kamar-3519881a2/) 
 - ✨ passionate about ⚽ 📽️ ✈️ 🚀 🥊

@@ -42,14 +42,7 @@ I am Samir Kamar, a master's student in Software Engineering 🎓 from IMT Atlan
 
 <br/>
 
-## Info
 
-<br/>
-<div>
-  <img align="left" alt="Mes stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-samir&langs_count=5" />
-  <img align="right" alt="Mes stats" src="https://github-readme-stats.vercel.app/api?username=k-samir&show_icons=true&hide_border=true" />
-</div>
-<br/>
 
 
 

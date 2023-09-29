@@ -1,13 +1,12 @@
 ### Welcome to my page ! 👋
-I am Samir Kamar, a master's student in Software Engineering 🎓 from IMT Atlantique in 🇫🇷, currently based in Nantes I love to explore new technologies and solve real-life problems ✨.
+I am Samir Kamar, a software engineer currently based in Strasbourg I love to explore new technologies and solve real-life problems ✨.
 
 <br/> 
 <img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  
 **Right Now I am :**
 
-- 👨🏽‍💻  working at Thales
-- 🌱  studying at IMT Atlantique
+- 🌱  studied at IMT Atlantique
 - 📫 reachable by : [Mail](mailto:k-samir@live) or [Linkedin](https://www.linkedin.com/in/samir-kamar-3519881a2/) 
 - ✨ passionate about ⚽ 📽️ ✈️ 🚀 🥊
 - 👏 supporter of FC Barcelona <img align="center" width="3%" src="https://icons.iconarchive.com/icons/giannis-zographos/spanish-football-club/256/FC-Barcelona-icon.png">

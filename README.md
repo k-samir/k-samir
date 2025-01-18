@@ -22,10 +22,11 @@ I am Samir Kamar, a software engineer currently based in Strasbourg I love to ex
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>    
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-<img stc="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+<img stc="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c++&logoColor=white)"/>
 </div>
 
 <br/>
+
 
 
 
